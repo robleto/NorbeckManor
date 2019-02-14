@@ -9,11 +9,36 @@
 	],
 "creatorBuild": "28905",
 "files": {
+	"/.gitattributes": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/build/.gitattributes",
+		"oF": 0
+		},
 	"/build": {
 		"ft": 65536,
 		"oA": 1,
 		"oAP": "/build/build",
 		"oF": 0
+		},
+	"/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "/build/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"/source/base.jade": {
 		"cB": 0,
@@ -307,7 +332,7 @@
 "projectAttributes": {
 	"creationDate": 541658250,
 	"displayValue": "NorbeckManor",
-	"displayValueWasSetByUser": 0,
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "brackets_brown",
 	"iconImageWasSetByUser": 0
 	},
@@ -2085,7 +2110,7 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0,
+		"autoOutputPathStyle": 1,
 		"createSourceMap": 0,
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 1,
@@ -2097,7 +2122,7 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 2
 		},
 	"languageDefaultsHAML": {
 		"autoOutputAction": 0,
@@ -2120,7 +2145,7 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0,
+		"autoOutputPathStyle": 1,
 		"outputFormat": 0,
 		"quality": 100
 		},
@@ -2209,7 +2234,7 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0,
+		"autoOutputPathStyle": 2,
 		"optimizerType": 1,
 		"quality": 100
 		},
@@ -2219,7 +2244,7 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0,
+		"autoOutputPathStyle": 1,
 		"compileDebug": 1,
 		"outputStyle": 0,
 		"shouldRunCacheBuster": 0
@@ -2274,7 +2299,7 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0,
+		"autoOutputPathStyle": 2,
 		"pluginMask": 3758088159
 		},
 	"languageDefaultsTS": {
