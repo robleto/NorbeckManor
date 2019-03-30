@@ -19,8 +19,8 @@ This site is deployed using Netlify by updating the Github code on the Master br
 
 ## Built Using
 
-* [Photoshop](http:www.adobe.com/products/photoshop.html) - For creating the FF background image
-* [Sublime Text](https://www.sublimetext.com/) - IDE for coding the Django site
+* [Photoshop](http:www.adobe.com/products/photoshop.html) - For creating the background image
+* [Sublime Text](https://www.sublimetext.com/) - IDE for coding the site
 * [Github](https://github.com/) - Used for storing the code in a cloud environment
 * [Netlify](https://netlify.com/) - Used for deploying the code on the Github master branch to display on the domain.
 
