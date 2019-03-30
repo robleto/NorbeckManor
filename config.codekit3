@@ -7,19 +7,219 @@
 		"uuidString": "F844746B-582C-4060-ADFB-A93853D19254"
 		}
 	],
-"creatorBuild": "28905",
+"creatorBuild": "29156",
 "files": {
 	"/.gitattributes": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/.gitattributes",
+		"oF": 0
+		},
+	"/admin/config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/admin/config.yml",
+		"oF": 0
+		},
+	"/admin/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/admin/index.html",
+		"oF": 0
+		},
+	"/base.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/base.html",
+		"oF": 0
+		},
+	"/boards.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/boards.html",
 		"oF": 0
 		},
 	"/build": {
 		"ft": 65536,
 		"oA": 1,
 		"oAP": "/build/build",
+		"oF": 0
+		},
+	"/contact.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/contact.html",
+		"oF": 0
+		},
+	"/css/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/build/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/docs/A Few Reminders.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/A Few Reminders.pdf",
+		"oF": 0
+		},
+	"/docs/Architectual_Review_Form_2014.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/Architectual_Review_Form_2014.pdf",
+		"oF": 0
+		},
+	"/docs/ArchitectualReviewForm2015.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/ArchitectualReviewForm2015.pdf",
+		"oF": 0
+		},
+	"/docs/Dues Letter Single-Family 2014.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/Dues Letter Single-Family 2014.pdf",
+		"oF": 0
+		},
+	"/docs/Dues Letter Townhomes 2014.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/Dues Letter Townhomes 2014.pdf",
+		"oF": 0
+		},
+	"/docs/HOA Annual Mtg Nov 2013.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/HOA Annual Mtg Nov 2013.pdf",
+		"oF": 0
+		},
+	"/docs/Norbeck HOA Budget 2014.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/Norbeck HOA Budget 2014.pdf",
+		"oF": 0
+		},
+	"/forms.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/forms.html",
+		"oF": 0
+		},
+	"/img/bg-header.png": {
+		"ft": 32768,
+		"iS": 610844,
+		"oA": 0,
+		"oAP": "/build/img/bg-header.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/icons/acroba-32.png": {
+		"ft": 32768,
+		"iS": 1620,
+		"oA": 0,
+		"oAP": "/build/img/icons/acroba-32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/icons/acrobat-32.png": {
+		"ft": 32768,
+		"iS": 1623,
+		"oA": 0,
+		"oAP": "/build/img/icons/acrobat-32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/icons/acrobat.png": {
+		"ft": 32768,
+		"iS": 10068,
+		"oA": 0,
+		"oAP": "/build/img/icons/acrobat.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/icons/word-32.png": {
+		"ft": 32768,
+		"iS": 1598,
+		"oA": 0,
+		"oAP": "/build/img/icons/word-32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/icons/word.png": {
+		"ft": 32768,
+		"iS": 8902,
+		"oA": 0,
+		"oAP": "/build/img/icons/word.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/nextdoor.png": {
+		"ft": 32768,
+		"iS": 4921,
+		"oA": 0,
+		"oAP": "/build/img/nextdoor.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/index.html",
 		"oF": 0
 		},
 	"/README.md": {
@@ -30,6 +230,7 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/README.html",
 		"oF": 0,
@@ -40,19 +241,45 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"/resources.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/resources.html",
+		"oF": 0
+		},
+	"/source/admin/config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/admin/config.yml",
+		"oF": 0
+		},
+	"/source/admin/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/admin/index.html",
+		"oF": 0
+		},
 	"/source/base.jade": {
 		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/base.html",
 		"oF": 0,
 		"oS": 0
 		},
 	"/source/boards.jade": {
-		"cB": 1,
+		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/boards.html",
 		"oF": 0,
@@ -62,6 +289,7 @@
 		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/contact.html",
 		"oF": 0,
@@ -70,6 +298,7 @@
 	"/source/docs/A Few Reminders.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/docs/A Few Reminders.pdf",
 		"oF": 0
@@ -77,6 +306,7 @@
 	"/source/docs/Architectual_Review_Form_2014.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/docs/Architectual_Review_Form_2014.pdf",
 		"oF": 0
@@ -84,6 +314,7 @@
 	"/source/docs/ArchitectualReviewForm2015.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/docs/ArchitectualReviewForm2015.pdf",
 		"oF": 0
@@ -91,6 +322,7 @@
 	"/source/docs/Dues Letter Single-Family 2014.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/docs/Dues Letter Single-Family 2014.pdf",
 		"oF": 0
@@ -98,6 +330,7 @@
 	"/source/docs/Dues Letter Townhomes 2014.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/docs/Dues Letter Townhomes 2014.pdf",
 		"oF": 0
@@ -105,6 +338,7 @@
 	"/source/docs/HOA Annual Mtg Nov 2013.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/docs/HOA Annual Mtg Nov 2013.pdf",
 		"oF": 0
@@ -112,6 +346,7 @@
 	"/source/docs/Norbeck HOA Budget 2014.pdf": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/docs/Norbeck HOA Budget 2014.pdf",
 		"oF": 0
@@ -120,6 +355,7 @@
 		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/forms.html",
 		"oF": 0,
@@ -206,6 +442,7 @@
 		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/index.html",
 		"oF": 0,
@@ -215,6 +452,7 @@
 		"cB": 0,
 		"cOD": 1,
 		"ft": 512,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/resources.html",
 		"oF": 0,
@@ -319,8 +557,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/build/css/style.css",
-		"oF": 2,
+		"oAP": "/build/scss/style.css",
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		}
@@ -419,6 +657,12 @@
 		"function-sent": {
 			"active": 0
 			},
+		"inline-consecutive-adds": {
+			"active": 0
+			},
+		"inline-environment-variables": {
+			"active": 0
+			},
 		"instanceof": {
 			"active": 0
 			},
@@ -438,6 +682,36 @@
 			"active": 0
 			},
 		"minify-booleans": {
+			"active": 0
+			},
+		"minify-builtins": {
+			"active": 0
+			},
+		"minify-constant-folding": {
+			"active": 0
+			},
+		"minify-dead-code-elimination": {
+			"active": 0
+			},
+		"minify-flip-comparisons": {
+			"active": 0
+			},
+		"minify-guarded-expressions": {
+			"active": 0
+			},
+		"minify-infinity": {
+			"active": 0
+			},
+		"minify-mangle-names": {
+			"active": 0
+			},
+		"minify-numeric-literals": {
+			"active": 0
+			},
+		"minify-simplify": {
+			"active": 0
+			},
+		"minify-type-constructors": {
 			"active": 0
 			},
 		"modules-amd": {
@@ -488,6 +762,9 @@
 		"pipeline-operator": {
 			"active": 0
 			},
+		"private-methods": {
+			"active": 0
+			},
 		"property-literals": {
 			"active": 0
 			},
@@ -521,10 +798,16 @@
 		"regenerator": {
 			"active": 0
 			},
+		"regexp-constructors": {
+			"active": 0
+			},
 		"remove-console": {
 			"active": 0
 			},
 		"remove-debugger": {
+			"active": 0
+			},
+		"remove-undefined": {
 			"active": 0
 			},
 		"reserved-words": {
@@ -1473,6 +1756,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-useless-catch": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-useless-computed-key": {
 			"active": 0,
 			"optionString": ""
@@ -2135,6 +2422,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -2156,6 +2444,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"bundleFormat": 0,
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"syntaxCheckerStyle": 3,
@@ -2178,7 +2467,8 @@
 		"autoOutputPathReplace1": "kit",
 		"autoOutputPathReplace2": "html",
 		"autoOutputPathStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
@@ -2217,6 +2507,7 @@
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
 		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -2226,7 +2517,8 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -2247,7 +2539,8 @@
 		"autoOutputPathStyle": 1,
 		"compileDebug": 1,
 		"outputStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -2276,7 +2569,8 @@
 		"outputFormat": 0,
 		"outputStyle": 1,
 		"railsCompatible": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
@@ -2364,16 +2658,20 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"ascii_only": {
-			"active": 0,
+		"arrows": {
+			"active": 1,
 			"flagValue": -1
 			},
-		"bare_returns": {
+		"ascii_only": {
 			"active": 0,
 			"flagValue": -1
 			},
 		"booleans": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"booleans_as_integers": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"braces": {
@@ -2385,14 +2683,14 @@
 			"flagValue": -1
 			},
 		"comments": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"comparisons": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"compress": {
+		"computed_props": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -2415,6 +2713,10 @@
 		"drop_debugger": {
 			"active": 1,
 			"flagValue": -1
+			},
+		"ecma": {
+			"active": 1,
+			"flagValue": 5
 			},
 		"eval": {
 			"active": 0,
@@ -2440,10 +2742,6 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"html5_comments": {
-			"active": 1,
-			"flagValue": -1
-			},
 		"ie8": {
 			"active": 0,
 			"flagValue": -1
@@ -2452,13 +2750,13 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"indent-start": {
-			"active": 0,
-			"flagValue": 0
-			},
 		"indent_level": {
 			"active": 0,
 			"flagValue": 4
+			},
+		"indent_start": {
+			"active": 0,
+			"flagValue": 0
 			},
 		"inline": {
 			"active": 1,
@@ -2470,6 +2768,10 @@
 			},
 		"join_vars": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"keep_classnames": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"keep_fargs": {
@@ -2492,13 +2794,13 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"mangle": {
-			"active": 1,
-			"flagValue": -1
-			},
 		"max_line_len": {
 			"active": 1,
 			"flagValue": 32000
+			},
+		"module": {
+			"active": 0,
+			"flagValue": -1
 			},
 		"negate_iife": {
 			"active": 1,
@@ -2507,10 +2809,6 @@
 		"passes": {
 			"active": 1,
 			"flagValue": 1
-			},
-		"preserve_line": {
-			"active": 0,
-			"flagValue": -1
 			},
 		"properties": {
 			"active": 1,
@@ -2534,6 +2832,10 @@
 			},
 		"reduce_vars": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"safari10": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"semicolons": {
@@ -2568,6 +2870,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"unsafe_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"unsafe_comps": {
 			"active": 0,
 			"flagValue": -1
@@ -2577,6 +2883,10 @@
 			"flagValue": -1
 			},
 		"unsafe_math": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_methods": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -2604,15 +2914,12 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"width": {
-			"active": 1,
-			"flagValue": 80
-			},
 		"wrap_iife": {
 			"active": 0,
 			"flagValue": -1
 			}
 		},
+	"uglifyMangleNames": 1,
 	"uglifyReservedNamesString": "$",
 	"websiteRelativeRoot": "/build"
 	},
