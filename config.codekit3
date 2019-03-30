@@ -49,6 +49,12 @@
 		"oAP": "/build/boards.html",
 		"oF": 0
 		},
+	"/build": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "/build/build",
+		"oF": 0
+		},
 	"/contact.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -242,6 +248,319 @@
 		"oA": 0,
 		"oAP": "/build/resources.html",
 		"oF": 0
+		},
+	"/source/admin/config.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/admin/config.yml",
+		"oF": 0
+		},
+	"/source/admin/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/admin/index.html",
+		"oF": 0
+		},
+	"/source/base.jade": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/base.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"/source/boards.jade": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/boards.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"/source/contact.jade": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/contact.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"/source/docs/A Few Reminders.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/A Few Reminders.pdf",
+		"oF": 0
+		},
+	"/source/docs/Architectual_Review_Form_2014.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/Architectual_Review_Form_2014.pdf",
+		"oF": 0
+		},
+	"/source/docs/ArchitectualReviewForm2015.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/ArchitectualReviewForm2015.pdf",
+		"oF": 0
+		},
+	"/source/docs/Dues Letter Single-Family 2014.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/Dues Letter Single-Family 2014.pdf",
+		"oF": 0
+		},
+	"/source/docs/Dues Letter Townhomes 2014.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/Dues Letter Townhomes 2014.pdf",
+		"oF": 0
+		},
+	"/source/docs/HOA Annual Mtg Nov 2013.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/HOA Annual Mtg Nov 2013.pdf",
+		"oF": 0
+		},
+	"/source/docs/Norbeck HOA Budget 2014.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/docs/Norbeck HOA Budget 2014.pdf",
+		"oF": 0
+		},
+	"/source/forms.jade": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/forms.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"/source/img/bg-header.png": {
+		"ft": 32768,
+		"iS": 1628985,
+		"oA": 0,
+		"oAP": "/build/img/bg-header.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/img/icons/acroba-32.png": {
+		"ft": 32768,
+		"iS": 2431,
+		"oA": 0,
+		"oAP": "/build/img/icons/acroba-32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/img/icons/acrobat-32.png": {
+		"ft": 32768,
+		"iS": 2251,
+		"oA": 0,
+		"oAP": "/build/img/icons/acrobat-32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/img/icons/acrobat.png": {
+		"ft": 32768,
+		"iS": 28279,
+		"oA": 0,
+		"oAP": "/build/img/icons/acrobat.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/img/icons/word-32.png": {
+		"ft": 32768,
+		"iS": 2617,
+		"oA": 0,
+		"oAP": "/build/img/icons/word-32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/img/icons/word.png": {
+		"ft": 32768,
+		"iS": 30660,
+		"oA": 0,
+		"oAP": "/build/img/icons/word.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/img/nextdoor.png": {
+		"ft": 32768,
+		"iS": 10911,
+		"oA": 0,
+		"oAP": "/build/img/nextdoor.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/source/index.jade": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/index.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"/source/resources.jade": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/resources.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"/source/scss/components/_base.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/build/scss/components/_base.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/source/scss/components/_cards.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/build/scss/components/_cards.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/source/scss/components/_contact.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/build/scss/components/_contact.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/source/scss/components/_content.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/build/scss/components/_content.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/source/scss/components/_grid.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/build/scss/components/_grid.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/source/scss/components/_header.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/build/scss/components/_header.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/source/scss/components/_normalize.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/build/scss/components/_normalize.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/source/scss/style.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/build/scss/style.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
 		}
 	},
 "hooks": [

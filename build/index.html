@@ -1,0 +1,51 @@
+
+<html lang="en">
+  <head>
+    <link href="http://fonts.googleapis.com/css?family=Roboto:400,300,100,700,400italic" rel="stylesheet"/>
+    <link href="css/style.css" rel="stylesheet"/>
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet"/>
+    <title>Meadowside at Norbeck Manor HOA</title>
+  </head>
+  <body>
+    <header>
+      <h1 class="branding">Meadowside <span class="subbranding">at Norbeck Manor</span></h1>
+      <nav>
+        <ul>
+          <li><a href="index.html">Hello from Meadowside</a></li>
+          <li><a href="forms.html"> Forms &amp; Documents</a></li>
+          <li><a href="boards.html"> Community (NextDoor)</a></li>
+          <li><a href="resources.html"> Frequently Asked Questions</a></li>
+          <li><a href="contact.html">Connect with Us</a></li>
+        </ul>
+      </nav>
+    </header>
+    <div id="content">			
+      <h2>Hello from Meadowside</h2>
+      <article class="nometa">
+        <p>This website you are on is the public-facing site for Meadowsie at Norbeck Manor, a  community of homes in Rockville, Maryland. There are four parts to this public-facing website:</p>
+      </article>
+      <div id="cards" class="line">
+        <section class="unit size1of2"><a href="forms.html"> 
+            <h1><i class="fa fa-file-text-o"> </i></h1>
+            <h4>Forms &amp; Documents </h4><small>Proxy voting, architectual review and other forms commonly requested.</small></a></section>
+        <section class="unit size1of2 lastUnit"><a href="boards.html"> 
+            <h1><i class="fa fa-comments-o"></i></h1>
+            <h4>Community (NextDoor)</h4><small>Homeowners are encouraged to interact on our Community website on NextDoor. Here's more info and how to join.</small></a></section>
+      </div>
+      <div id="cards" class="line">
+        <section class="unit size1of2"><a href="resources.html"> 
+            <h1><i class="fa fa-question-circle"></i></h1>
+            <h4>Frequently Asked Questions</h4><small>Common questions that are asked of the HOA. Anything from selling your home to how to get a streetlight repaired.</small></a></section>
+        <section class="unit size1of2 lastUnit"><a href="contact.html"> 
+            <h1><i class="fa fa-envelope"></i></h1>
+            <h4>Connect With Us</h4><small>Contact forms for joining the email list or to contact the HOA Board.</small></a></section>
+      </div>
+    </div>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script>
+      $("h1").on("click", function() {
+      $("p").toggle();
+      });
+    </script>
+  </body>
+</html>

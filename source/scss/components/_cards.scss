@@ -1,0 +1,134 @@
+//
+// FORMS LIST 
+//
+//--------------------------------------------------
+// { Mobile First }
+
+#cards {
+
+	h3 {
+		margin-top: 10px;
+		font-size: .8em;
+		text-transform: uppercase;
+		font-weight: normal;
+		color: #666666;
+	}
+
+	section {
+		border: solid 1px #CCCCCC;
+		box-shadow: 2px 2px 2px #DDDDDD;
+		border-radius: 5px;
+		margin: 0px 20px 20px 0px;
+		a {
+			color: #333333;
+			display: block;
+			text-decoration: none;
+			padding: 20px;
+		}
+		a:hover {
+			background-color: #fafbec;
+		}
+
+		a:hover h4 {
+			text-decoration: underline;
+
+		}
+
+		@mixin icon {
+			font-weight: normal;
+		    line-height: 115%;
+		    margin-top: 0;
+		    padding-top: 10px;
+		    padding-left: 40px;
+		}
+		.pdf {
+			background: transparent url(../img/icons/acrobat-32.png) left top no-repeat;
+			@include icon
+		}
+		.word {
+			background: transparent url(../img/icons/word-32.png) left top no-repeat;
+			@include icon
+		}
+
+
+		small {
+			color: #666666;
+		}
+
+		h1 {
+		    font-size: 3em;
+		    margin: 0;
+		    padding: 0;
+		    text-align: center;
+		}
+		h4 {
+			text-align: center;
+			padding-bottom: 0px;
+			margin-bottom: 10px;
+		}
+
+	}
+
+}
+
+
+//
+// Responsive States - Tablet
+//--------------------------------------------------
+@media only screen and (min-width: 600px) {
+
+
+
+}
+
+//
+// Responsive States - Desktop
+//--------------------------------------------------
+@media only screen and (min-width: 900px) {
+
+	#formslist {
+
+		section {
+			border: solid 1px #CCCCCC;
+			box-shadow: 2px 2px 2px #DDDDDD;
+			border-radius: 5px;
+			float: left;
+			margin: 0px 20px 20px 0px;
+			min-height: 300px;
+			a {
+				color: #333333;
+				display: block;
+				text-decoration: none;
+				padding: 20px;
+				h1 {
+					font-size: 3em;
+				    margin: 0;
+				    padding: 0;
+				    text-align: center;
+				}
+			}
+
+			@mixin desktop-icon {
+			    padding-top: 50px;
+			    text-align: center;
+			    padding-left: 0px;
+			}
+			.pdf {
+				background: transparent url(../img/icons/acrobat-32.png) center top no-repeat;
+				@include desktop-icon
+			}
+			.word {
+				background: transparent url(../img/icons/word-32.png) center top no-repeat;
+				@include desktop-icon
+			}
+			small {
+				color: #666666;
+			}
+
+
+		}
+
+	}
+}
+
+
